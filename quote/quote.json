@@ -1,128 +1,111 @@
-[
- {
-  "indonesian": [
-   {
-     "quote": "Belajar itu seperti mendayung melawan arus. Kalau berhenti, kita akan hanyut ke belakang.",
-     "author": "Ir. Soekarno"
-   },
-   {
-     "quote": "Konsistensi adalah kunci dari semua keberhasilan.",
-     "author": "BJ Habibie"
-   },
-   {
-     "quote": "Ilmu itu tidak ada batasnya. Semakin kau mencari, semakin banyak yang belum kau ketahui.",
-     "author": "Buya Hamka"
-   },
-   {
-     "quote": "Kesuksesan bukanlah milik orang pintar, tapi milik mereka yang mau berusaha.",
-     "author": "Chairul Tanjung"
-   },
-   {
-     "quote": "Kerjakan apa yang ada di depan mata dengan sepenuh hati, nanti peluang besar akan datang.",
-     "author": "Susi Pudjiastuti"
-   },
-   {
-     "quote": "Jangan takut memulai dari nol, karena angka nol itu justru membuat nilai jadi tak terbatas.",
-     "author": "Najwa Shihab"
-   },
-   {
-     "quote": "Belajar dari kesalahan adalah bentuk belajar paling mahal dan paling berharga.",
-     "author": "Tung Desem Waringin"
-   },
-   {
-     "quote": "Tidak ada yang instan, semua butuh proses. Bahkan mie instan pun harus direbus dulu.",
-     "author": "Mario Teguh"
-   },
-   {
-     "quote": "Jangan tunggu pintar baru mulai, mulai saja dulu, nanti kamu akan pintar.",
-     "author": "Raditya Dika"
-   },
-   {
-     "quote": "Inovasi lahir dari keberanian mencoba dan gagal berkali-kali.",
-     "author": "William Tanuwijaya"
-   },
-   {
-     "quote": "Mimpi itu gratis, tapi perjuangan untuk meraihnya butuh harga yang mahal.",
-     "author": "Deddy Corbuzier"
-   },
-   {
-     "quote": "Disiplin adalah jembatan antara tujuan dan pencapaian.",
-     "author": "Andrie Wongso"
-   },
-   {
-     "quote": "Jangan bandingkan prosesmu dengan orang lain, fokus saja pada kemajuanmu sendiri.",
-     "author": "Maudy Ayunda"
-   },
-   {
-     "quote": "Kerja keras itu penting, tapi kerja cerdas akan membuatmu melaju lebih cepat.",
-     "author": "Merry Riana"
-   },
-   {
-     "quote": "Kesabaran, kerja keras, dan doa adalah tiga hal yang tidak pernah mengkhianati hasil.",
-     "author": "Ustadz Yusuf Mansur"
-   }
-  ],
-  "english": [
-   {
-     "quote": "It always seems impossible until it's done.",
-     "author": "Nelson Mandela"
-   },
-   {
-     "quote": "The only way to do great work is to love what you do.",
-     "author": "Steve Jobs"
-   },
-   {
-     "quote": "Success is the sum of small efforts, repeated day in and day out.",
-     "author": "Robert Collier"
-   },
-   {
-     "quote": "Do not wait to strike till the iron is hot, but make it hot by striking.",
-     "author": "William Butler Yeats"
-   },
-   {
-     "quote": "Code is like humor. When you have to explain it, it’s bad.",
-     "author": "Cory House"
-   },
-   {
-     "quote": "The expert in anything was once a beginner.",
-     "author": "Helen Hayes"
-   },
-   {
-     "quote": "Your limitation—it’s only your imagination.",
-     "author": "Unknown"
-   },
-   {
-     "quote": "Opportunities don't happen. You create them.",
-     "author": "Chris Grosser"
-   },
-   {
-     "quote": "The secret of getting ahead is getting started.",
-     "author": "Mark Twain"
-   },
-   {
-     "quote": "Don’t compare yourself to others. Compare yourself to the person you were yesterday.",
-     "author": "Unknown"
-   },
-   {
-     "quote": "Consistency is what transforms average into excellence.",
-     "author": "Unknown"
-   },
-   {
-     "quote": "First, solve the problem. Then, write the code.",
-     "author": "John Johnson"
-   },
-   {
-     "quote": "Don’t watch the clock; do what it does. Keep going.",
-     "author": "Sam Levenson"
-   },
-   {
-     "quote": "Experience is the name everyone gives to their mistakes.",
-     "author": "Oscar Wilde"
-   },
-   {
-     "quote": "Small progress each day adds up to big results.",
-     "author": "Unknown"
-   }
-  ]
- }
-]
+{
+ "indonesian": [
+  {
+    "quote": "🎓 Kuliah di kampus bagus itu bonus, berkembang di kampus apapun itu wajib. Karena yang bikin kamu maju bukan tempatnya, tapi usahamu di dalamnya."
+  },
+  {
+    "quote": "⚡ Jangan bangga cuma sibuk kalo sibuknya ga bikin kamu lebih pintar atau lebih baik. Sibuk yang ga ada hasil itu cuma capek doang."
+  },
+  {
+    "quote": "📚 Belajar itu ga harus nunggu mood. Justru mood bakal datang setelah kamu mulai, bukan sebelum."
+  },
+  {
+    "quote": "🚀 Kalo kamu terus nunggu sempurna baru mulai, selamat, kamu akan diam di tempat selamanya."
+  },
+  {
+    "quote": "💪 Gagal itu cuma tanda kamu lagi nyoba. Tapi nyerah? Itu tanda kamu udah berhenti tumbuh."
+  },
+  {
+    "quote": "🔥 Banyak alasan cuma bikin kamu nyaman di zona aman. Banyak aksi justru bikin zona amannya melebar."
+  },
+  {
+    "quote": "⏳ Mager sehari mungkin keliatannya sepele, tapi efeknya bisa bikin kamu nyesel bertahun-tahun."
+  },
+  {
+    "quote": "🔄 Kalo mau hasil yang beda, berhenti ngelakuin hal yang sama terus. Perubahan itu nyakitin di awal, tapi nyenengin di akhir."
+  },
+  {
+    "quote": "💻 Ngoding itu gampang, yang susah itu ngelawan rasa malas yang nyamar jadi 'nanti aja'."
+  },
+  {
+    "quote": "⏱️ Jangan tunggu motivasi baru bergerak. Disiplin akan jalanin kamu bahkan di hari-hari tanpa semangat."
+  },
+  {
+    "quote": "🧠 Kalo kamu capek belajar, inget rasanya waktu ga ngerti apa-apa. Itu jauh lebih nyakitin."
+  },
+  {
+    "quote": "🌱 Punya mimpi tanpa eksekusi itu cuma bikin frustrasi. Jalanin aja, meski pelan, asal terus maju."
+  },
+  {
+    "quote": "🎯 Kerja keras itu penting, tapi kerja keras dengan arah yang benar itu jauh lebih berharga."
+  },
+  {
+    "quote": "💎 Berhenti bandingin dirimu sama orang lain. Prosesmu unik, dan fokus upgrade diri sendiri jauh lebih bermanfaat."
+  },
+  {
+    "quote": "🏗️ Kalo kamu ga bangun mimpi sendiri, kamu akan jadi bagian dari orang lain yang lagi bangun mimpinya."
+  }
+ ],
+ "english": [
+  {
+    "quote": "🚀 Waiting for the perfect moment will only keep you stuck. Start now, adjust along the way.",
+    "author": "Sheryl Sandberg"
+  },
+  {
+    "quote": "💻 Coding isn’t hard, resisting laziness disguised as 'later' is the real challenge.",
+    "author": "Cory House"
+  },
+  {
+    "quote": "🔥 Excuses will keep you in the comfort zone. Actions will expand it.",
+    "author": "Tony Robbins"
+  },
+  {
+    "quote": "📚 Learning doesn’t need your mood. Your mood will follow when you start.",
+    "author": "James Clear"
+  },
+  {
+    "quote": "💡 Failure means you tried. Quitting means you stopped growing.",
+    "author": "John C. Maxwell"
+  },
+  {
+    "quote": "⏳ One lazy day might feel harmless, but its effect can last for years.",
+    "author": "Robin Sharma"
+  },
+  {
+    "quote": "🎯 Stop comparing your chapter 1 to someone else’s chapter 20.",
+    "author": "Jon Acuff"
+  },
+  {
+    "quote": "🧠 If learning feels tiring, remember the pain of not knowing is worse.",
+    "author": "Jim Rohn"
+  },
+  {
+    "quote": "🌱 Dreams without execution are just frustrations in disguise.",
+    "author": "Mark Cuban"
+  },
+  {
+    "quote": "💪 Hard work matters, but hard work in the right direction matters more.",
+    "author": "Stephen R. Covey"
+  },
+  {
+    "quote": "📈 Small consistent progress beats random bursts of effort.",
+    "author": "Darren Hardy"
+  },
+  {
+    "quote": "🔄 If you want different results, stop doing the same things over and over.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "⚡ Discipline will take you further than motivation ever will.",
+    "author": "Jocko Willink"
+  },
+  {
+    "quote": "🏗️ If you don’t build your own dream, you’ll end up building someone else’s.",
+    "author": "Farrah Gray"
+  },
+  {
+    "quote": "🕒 Don’t watch the clock; do what it does — keep going.",
+    "author": "Sam Levenson"
+  }
+ ]
+}
